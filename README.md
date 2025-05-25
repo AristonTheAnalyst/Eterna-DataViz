@@ -1,4 +1,4 @@
-# Eterna Human Resources Dashboard
+# <a link="https://public.tableau.com/app/profile/ariston.zubiri/viz/EternaHRDashboard/HRSummary?publish=yes">Eterna Human Resources Dashboard</a>
 
 ## Project Overview
 
