@@ -1,3 +1,12 @@
-Eterna Human Resources Dashboard
-In this project I build a Tableau dashboard for Human Resources
-There is no commit history as during the course of this project in particular, I still hadn't learned about version control and documentation.
+# Eterna Human Resources Dashboard
+
+## Project Overview
+
+This is the first project in my 2025 professional portfolio
+
+The aim of this project was to build a fleshed out Tableau dashboard rich with features, but still realistically practical for real-world use.
+
+This project utilizes python for data generation, data analysis, cleaning and transformation, Tableau for visuals.
+
+## Notes
+There is no commit history as I didn't yet know how to practice version control and documentation with Git, since this project, I have always been using Git for documentation/version control.
